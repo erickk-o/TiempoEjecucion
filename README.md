@@ -1,7 +1,7 @@
-En este programa vamos a ver 2 soluciones para poder resolver y encontrar en una lista los numeros repetidos 
+In this program, we will look at two solutions for identifying and finding repeated numbers in a list:
 
-1- En el primer algortimo primero tenemos que ordenar de manera acendente los numeros y luego los comparamos de 2 en 2 
-y si en algun caso los 2 son iguales esos numeros son repetidos y los imprime 
+1- In the first algorithm, we first sort the numbers in ascending order and then compare them two at a time. If any two numbers are equal, they are identified as repeated and are then printed.
 
-2- En el segundo algoritmo vamos a sumar 2 numeros y luego los vamos a dividir y su resultado vamos a compararlo con los 
-numeros sumados y si los 2 son iguales son numeros repetidos y los imprime 
+2- In the second algorithm, we add two numbers together and then divide the result; we then compare this outcome with the original numbers. If they match, the numbers are identified as repeated and are then printed.
+
+
