@@ -4,4 +4,5 @@ In this program, we will look at two solutions for identifying and finding repea
 
 2- In the second algorithm, we add two numbers together and then divide the result; we then compare this outcome with the original numbers. If they match, the numbers are identified as repeated and are then printed.
 
+Team members: Erick Oña, Daniel Riofrio
 
