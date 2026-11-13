@@ -1,4 +1,5 @@
-En este codigo vamos a ver los tiempos de ejecución de dos algoritmos donde el primero se trata de ordenar primero la lista de 
-numeros dados y luego comparar de 2 en 2 y ver si son iguales si lo son nos lanza el numero que es igual y esos son los numeros iguales, 
-el segundo funciona con la sima de 2 numeros y dividiendolos y al momento de dividirlo el resultado lo vamos a comparar con los 2 numeros 
-sumados si son iguales los numeros sumados son repetidos 
+En este programa vamos a ver 2 soluciones para poder resolver y encontrar en una lista los numeros repetidos 
+1- En el primer algortimo primero tenemos que ordenar de manera acendente los numeros y luego los comparamos de 2 en 2 
+y si en algun caso los 2 son iguales esos numeros son repetidos y los imprime 
+2- En el segundo algoritmo vamos a sumar 2 numeros y luego los vamos a dividir y su resultado vamos a compararlo con los 
+numeros sumados y si los 2 son iguales son numeros repetidos y los imprime 
